@@ -2,5 +2,5 @@
 
 ==> With the power of MobileNet and SSD
 
-<img src="[path/to/your.gif](https://github.com/naziaperwaiz/Real-time-vehicle-counting/blob/main/output.gif)" width="600" height="400" alt="Vehicle detection">
+<img src="https://github.com/naziaperwaiz/Real-time-vehicle-counting/blob/main/output.gif" width="600" height="400" alt="Vehicle detection">
 
