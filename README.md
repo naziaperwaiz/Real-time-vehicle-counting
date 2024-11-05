@@ -2,4 +2,5 @@
 
 ==> With the power of MobileNet and SSD
 
-![Model's output](https://github.com/naziaperwaiz/Real-time-vehicle-counting/blob/main/output.gif)
+<img src="[path/to/your.gif](https://github.com/naziaperwaiz/Real-time-vehicle-counting/blob/main/output.gif)" width="600" height="400" alt="Vehicle detection">
+
